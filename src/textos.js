@@ -20,6 +20,9 @@ export const titulos = [
   'Canto V',
   'Melodrama',
   'La luz',
+  'La ética de Peñómaco',
+  'Pornografía de los lepidópteros',
+  '¿Los pobres? A metros',
 ];
 
 export const frases = [
@@ -54,7 +57,7 @@ export const frases = [
   'sabíamos para dónde íbamos',
   'pero no había senderos',
   'y la vegetación era totalmente tupida',
-  'y había barrancos y riscos',
+  'había barrancos y riscos',
   'disfrutamos',
   'la naturaleza',
   'y la camaradería',
@@ -78,4 +81,13 @@ export const frases = [
   'difrazado de tragedia',
   'condimentado',
   'con politiquería',
+  'pagar el pasaje es lo correcto',
+  'colarse es lo corrupto',
+  'imagínese caminar por el sendero de las mariposas',
+  '(con su pareja)',
+  'y verlas apareándose',
+  'los ricos del país que viven en la capital',
+  'quieren tener el metro (subterráneo)',
+  'para que los pobres que se movilicen en él no se vean',
+  'a algunos las emociones de las ilusiones políticas les nublan la objetividad',
 ];
