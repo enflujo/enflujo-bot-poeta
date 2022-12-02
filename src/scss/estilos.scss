@@ -19,3 +19,44 @@ body {
   background-color: #30cac073;
   color: #130808;
 }
+
+h2 {
+  font-size: 1.1em;
+}
+
+#contenedor {
+  margin: auto 1em;
+  text-align: center;
+}
+
+#tituloPagina {
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+#subtituloPagina {
+  margin: 0 0 2em 0;
+}
+
+#foto {
+  width: 300px;
+  border: #ff7300 dashed 13px;
+}
+
+.tituloPoema {
+  font-size: 2em;
+}
+
+.poema {
+  font-size: 1.5em;
+}
+
+.poema::first-letter {
+  text-transform: uppercase
+}
+
+#boton {
+  font-size: 0.9em;
+  background-color: #3d00fdb5;
+  color: white;
+}
