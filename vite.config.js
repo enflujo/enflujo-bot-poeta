@@ -7,8 +7,8 @@ export default defineConfig({
   },
   publicDir: 'estaticos',
   build: {
-    outDir: 'publico',
-    assetsDir: 'recursos',
-    sourcemap: true,
+    outDir: './docs',
+    emptyOutDir: true,
   },
+  base: '/enflujo-bot-poeta/',
 });
