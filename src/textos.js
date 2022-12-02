@@ -60,7 +60,7 @@ export const frases = [
   'había barrancos y riscos',
   'disfrutamos',
   'la naturaleza',
-  'y la camaradería',
+  'la camaradería',
   'ya anocheciendo',
   'los que ahora deciden y opinan',
   'vieron las tumbas',

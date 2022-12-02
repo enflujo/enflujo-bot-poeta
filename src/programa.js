@@ -13,7 +13,7 @@ function numeroRandom(min, max) {
 }
 
 function generarVerso() {
-  const random = numeroRandom(1, frases.length - 1);
+  const random = numeroRandom(0, frases.length - 1);
 
   if (!indicesElegidos.includes(random)) {
     indicesElegidos.push(random);
